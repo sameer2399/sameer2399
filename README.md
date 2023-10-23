@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sameer Anand</h1>
 <h3 align="center">Frontend Developer Passionate about Creating Seamless User Experiences with React Js ⚡️. Keen interest in React Js | Redux | Javascript | CSS | HTML</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer2399&label=Profile%20views&color=0e75b6&style=flat" alt="sameer2399" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer2399" alt="sameer2399" /></a> </p>
+
 - 🌱 I’m currently learning **Node, SAP UI5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameer2399](https://github.com/sameer2399)
@@ -9,9 +13,12 @@
 
 - 📫 How to reach me **sam.anand619@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZzLoP8uTJyNcwXLE0h9XiBorIqwFuaSS?usp=sharing](https://drive.google.com/drive/folders/1ZzLoP8uTJyNcwXLE0h9XiBorIqwFuaSS?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameer-anand-9540b4192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-anand-9540b4192/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sameer-anand-9540b4192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-anand-9540b4192/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16741453/sameer-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16741453/sameer-anand" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sam_anand619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sam_anand619" height="30" width="40" /></a>
 </p>
 
