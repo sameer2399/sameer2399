@@ -1,3 +1,9 @@
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Sameer Anand</h1>
 <h3 align="center">Frontend Developer Passionate about Creating Seamless User Experiences with React Js ⚡️. Keen interest in React Js | Redux | Javascript | CSS | HTML</h3>
 
@@ -30,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer2399&show_icons=true&locale=en" alt="sameer2399" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer2399&" alt="sameer2399" /></p>
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
