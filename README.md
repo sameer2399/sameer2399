@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sameer Anand</h1>
-<h3 align="center">Frontend Developer, Passionate about Creating Seamless User Experiences with React Js ⚡️. Keen interest in React Js | Redux | Javascript | CSS | HTML</h3>
+<h3 align="center">Frontend Developer, Passionate about Creating Seamless User Experiences with React Js⚡️. Keen interest in React Js | Redux | Javascript | CSS | HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer2399&label=Profile%20views&color=0e75b6&style=flat" alt="sameer2399" /> </p>
 
