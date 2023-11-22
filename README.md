@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer2399" alt="sameer2399" /></a> </p>
 
-- 🌱 I’m currently learning **Node, SAP UI5**
+- 🌱 I’m currently learning **Node, MongoDB, SAP UI5 (FIORI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameer2399](https://github.com/sameer2399)
 
