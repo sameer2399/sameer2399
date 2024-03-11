@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer2399" alt="sameer2399" /></a> </p>
 
-- 🌱 I’m currently learning **Node, MongoDB, SAP UI5 (FIORI)**
+- 🌱 I’m currently learning **Node, Express, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameer2399](https://github.com/sameer2399)
 
-- 💬 Ask me about **react, redux, c, c++**
+- 💬 Ask me about **react js, next js, redux, javascript, typescript**
 
 - 📫 How to reach me **sam.anand619@gmail.com**
 
