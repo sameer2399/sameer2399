@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sam.anand619@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1iqYA5vT4okqNsowf7AjLwdg-a7goqwCD/view?usp=sharing]]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1U9m_Xfu3AcZ2ZRkDaiHtRPPxTk_s--Xr/view?usp=sharing]]
   
 
 <h3 align="left">Connect with me:</h3>
